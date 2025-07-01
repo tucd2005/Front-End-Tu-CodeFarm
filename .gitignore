@@ -1,0 +1,73 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Vite / Build output
+dist/
+dist-ssr/
+.vite/
+build/
+temp/
+
+# Local env files
+.env
+.env.*.local
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.code-workspace
+
+# System files
+Thumbs.db
+ehthumbs.db
+*.iml
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage (if using test coverage tools)
+coverage/
+
+# Mac specific
+.AppleDouble
+.LSOverride
+
+# JetBrains Rider
+.idea/
+
+# Windows specific
+$RECYCLE.BIN/
+
+# Optional lock files (if you only use one lock file type, ignore the rest)
+package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# ESLint cache
+.eslintcache
+
+# Stylelint cache
+.stylelintcache
+
+# Test related
+jest.config.js
+jest.setup.js
+coverage/

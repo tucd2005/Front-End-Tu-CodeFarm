@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "chuductu1",
+      "gia": "h",
+      "mota": "gdfdsg",
+      "id": 2
+    },
+    {
+      "ten": "CHu Đức tú ",
+      "gia": "13",
+      "anh": "https://channel.mediacdn.vn/428462621602512896/2022/10/29/photo-1-16670121223331494997548.png",
+      "id": 3
+    },
+    {
+      "ten": "admin",
+      "gia": "13",
+      "anh": "jgdkfghjhio er rrtj",
+      "id": 4
+    },
+    {
+      "ten": "biobiu",
+      "gia": "132",
+      "anh": "gfdgfd",
+      "id": 5
+    }
+  ],
+  "user": []
+}
